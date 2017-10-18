@@ -9,16 +9,17 @@ All the info is saved in JSON files. Some data are also stored in ARFF files (va
 
 This software has been used as part of the following academic papers. If you use it, please cite any of them or the repo itself.
 
-     * Cruz-Benito, J., Therón, R., Pizarro, E., & García-Peñalvo, F. J. (2013, November). Knowledge discovery in virtual worlds usage data: approaching web mining concepts to 3D virtual environments. In Proceedings fourth international workshop on knowledge discovery, knowledge management and decision support (Eureka-2013). [PDF](http://hdl.handle.net/10366/122588)
-     * Cruz-Benito, J., Therón-Sánchez, R., & Pizarro Lucas, E. (2013). Soluciones visuales interactivas aplicadas a grandes volúmenes de datos de entornos 3D de aprendizaje y prácticas. [PDF](https://gredos.usal.es/jspui/bitstream/10366/122490/1/DIA_HEBATT_Paper_JuanCB_LibroMaster.pdf)
-     * Cruz-Benito, J., Therón, R., Pizarro, E., & García-Peñalvo, F. J. (2013, September). Análisis de datos en mundos virtuales educativos. In Actas del XV Simposio Internacional de Tecnologías de la Información y las Comunicaciones en la Educación (SINTICE13). [PDF](https://repositorio.grial.eu/bitstream/grial/269/1/sintice2013.pdf)
-     * Cruz-Benito, J., Sánchez, R. T., García-Peñalvo, F. J., & Lucas, E. P. (2013, November). Analyzing users' movements in virtual worlds: discovering engagement and use patterns. In Proceedings of the First International Conference on Technological Ecosystem for Enhancing Multiculturality (pp. 559-564). ACM. DOI: [10.1145/2536536.2536622](https://doi.org/10.1145/2536536.2536622)
-     * Cruz-Benito, J., Therón, R., García-Peñalvo, F. J., & Lucas, E. P. (2015). Discovering usage behaviors and engagement in an Educational Virtual World. Computers in Human Behavior, 47, 18-25. DOI: [10.1016/j.chb.2014.11.028](https://doi.org/10.1016/j.chb.2014.11.028)
+ * Cruz-Benito, J., Therón, R., Pizarro, E., & García-Peñalvo, F. J. (2013, November). Knowledge discovery in virtual worlds usage data: approaching web mining concepts to 3D virtual environments. In Proceedings fourth international workshop on knowledge discovery, knowledge management and decision support (Eureka-2013). [PDF](http://hdl.handle.net/10366/122588)
+ * Cruz-Benito, J., Therón-Sánchez, R., & Pizarro Lucas, E. (2013). Soluciones visuales interactivas aplicadas a grandes volúmenes de datos de entornos 3D de aprendizaje y prácticas. [PDF](https://gredos.usal.es/jspui/bitstream/10366/122490/1/DIA_HEBATT_Paper_JuanCB_LibroMaster.pdf)
+ * Cruz-Benito, J., Therón, R., Pizarro, E., & García-Peñalvo, F. J. (2013, September). Análisis de datos en mundos virtuales educativos. In Actas del XV Simposio Internacional de Tecnologías de la Información y las Comunicaciones en la Educación (SINTICE13). [PDF](https://repositorio.grial.eu/bitstream/grial/269/1/sintice2013.pdf)
+ * Cruz-Benito, J., Sánchez, R. T., García-Peñalvo, F. J., & Lucas, E. P. (2013, November). Analyzing users' movements in virtual worlds: discovering engagement and use patterns. In Proceedings of the First International Conference on Technological Ecosystem for Enhancing Multiculturality (pp. 559-564). ACM. DOI: [10.1145/2536536.2536622](https://doi.org/10.1145/2536536.2536622)
+ * Cruz-Benito, J., Therón, R., García-Peñalvo, F. J., & Lucas, E. P. (2015). Discovering usage behaviors and engagement in an Educational Virtual World. Computers in Human Behavior, 47, 18-25. DOI: [10.1016/j.chb.2014.11.028](https://doi.org/10.1016/j.chb.2014.11.028)
 
 To check out my other papers on virtual worlds, HCI, etc., visit my [Google Scholar profile](https://scholar.google.es/citations?user=_mLnQPgAAAAJ&hl=es)
 
 ## How to cite this repo
-Fixme
+[![DOI](https://zenodo.org/badge/107381598.svg)](https://zenodo.org/badge/latestdoi/107381598)
+ * Juan Cruz-Benito. (2013). opensim-arff: scripts to produce ARFF files (Weka) from Opensim's database and logs. Zenodo. [http://doi.org/10.5281/zenodo.1019165](http://doi.org/10.5281/zenodo.1019165)
 
 ## Disclaimer 
 This software was developed back in 2013 as part of my Master thesis project. It was tested with the Opensim versions available at this time. Use it carefully.
