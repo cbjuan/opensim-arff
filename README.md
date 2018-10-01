@@ -1,4 +1,6 @@
 # opensim-arff
+[![DOI](https://zenodo.org/badge/107381598.svg)](https://zenodo.org/badge/latestdoi/107381598)
+
 Scripts to produce ARFF files (Weka) from Opensim's database and logs. 
 This code uses to Opensim.log and Robust.log to extract info about teleports, sessions, etc.
 Also, the code uses a MySQL connection to gather data about users, terrains, user groups, etc.
@@ -19,8 +21,18 @@ This software has been used as part of the following academic papers. If you use
 To check out my other papers on virtual worlds, HCI, etc., visit my [Google Scholar profile](https://scholar.google.es/citations?user=_mLnQPgAAAAJ&hl=es)
 
 ## How to cite this repo
-[![DOI](https://zenodo.org/badge/107381598.svg)](https://zenodo.org/badge/latestdoi/107381598)
- * Juan Cruz-Benito. (2013). opensim-arff: scripts to produce ARFF files (Weka) from Opensim's database and logs. Zenodo. [http://doi.org/10.5281/zenodo.1019165](http://doi.org/10.5281/zenodo.1019165)
+ 
+ ```
+ @misc{
+    juan cruz-benito_2013, 
+    author={Juan Cruz-Benito},
+    year={2013}, month={Jul},
+    title={opensim-arff: scripts to produce ARFF files (Weka) from Opensim\'s database and logs}, 
+    DOI={10.5281/zenodo.1019165}, 
+    abstractNote={<p>Estable code for research works developed in 2013-2014</p>}, 
+    publisher={Zenodo}
+    }
+ ```
 
 ## Disclaimer 
 This software was developed back in 2013 as part of my Master thesis project. It was tested with the Opensim versions available at this time. Use it carefully.
